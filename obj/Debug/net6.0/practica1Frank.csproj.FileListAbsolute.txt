@@ -1,0 +1,15 @@
+/home/faristizabal/Desktop/practica1Frank/bin/Debug/net6.0/practica1Frank
+/home/faristizabal/Desktop/practica1Frank/bin/Debug/net6.0/practica1Frank.deps.json
+/home/faristizabal/Desktop/practica1Frank/bin/Debug/net6.0/practica1Frank.runtimeconfig.json
+/home/faristizabal/Desktop/practica1Frank/bin/Debug/net6.0/practica1Frank.dll
+/home/faristizabal/Desktop/practica1Frank/bin/Debug/net6.0/practica1Frank.pdb
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.csproj.AssemblyReference.cache
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.GeneratedMSBuildEditorConfig.editorconfig
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.AssemblyInfoInputs.cache
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.AssemblyInfo.cs
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.csproj.CoreCompileInputs.cache
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.dll
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/refint/practica1Frank.dll
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.pdb
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/practica1Frank.genruntimeconfig.cache
+/home/faristizabal/Desktop/practica1Frank/obj/Debug/net6.0/ref/practica1Frank.dll
